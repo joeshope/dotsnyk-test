@@ -1,4 +1,7 @@
-# .snyk
- ignore:
-    "FIS.A2T.NPT.Configuration.Api.UnitTests/**":
-    - '*'
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+patch: {}
+exclude:
+  global:
+    - FIS.A2T.NPT.Configuration.Api.UnitTests/*
