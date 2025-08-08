@@ -1,0 +1,4 @@
+# .snyk
+ ignore:
+    "FIS.A2T.NPT.Configuration.Api.UnitTests/**":
+    - '*'
